@@ -1,5 +1,3 @@
-# Cremona
+# COUNTING MONOMIAL CREMONA MAPS
 
-Teste, o arquivo sagews deve ser utilizado no site https://cocalc.com ou no software que pode ser baixado em http://www.sagemath.org/
-
-teste 2
+The Cremona.sws file should be used in the SageMath software, which can be downloaded at http://www.sagemath.org/
